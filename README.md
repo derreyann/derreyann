@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-yannderre-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/yannderre)](https://twitter.com/yannderre) 
 [![Linkedin Badge](https://img.shields.io/badge/-yannderre-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yannderre/)](https://www.linkedin.com/in/yannderre/) [![Github Badge](https://img.shields.io/badge/-derreyann-grey?style=flat&logo=github&logoColor=white&link=https://github.com/derreyann/)](https://www.github.com/derreyann/)
   
-Software engineering student at UTBM. Currently doing an Erasmus semester at UDC (A Coruña, Spain)
+Software engineering student at [UTBM](https://www.utbm.fr) (2020-Present). Currently doing an Erasmus semester at [UDC](https://www.udc.es) (A Coruña, Spain)
 
 ## Currently learning
 
