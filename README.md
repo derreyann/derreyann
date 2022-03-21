@@ -10,6 +10,9 @@ Currently a software engineering student in UTBM.
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derreyann&layout=compact&theme=dark)](https://github.com/derreyann)
+<p align="center">
+  <img width="349" height="164" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derreyann&layout=compact&theme=dark">
+</p>
 
 ## Repositories pinned 👇
+
