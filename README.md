@@ -1,7 +1,7 @@
 ## Hey there, I'm Yann 🤠
   
 [![Twitter Badge](https://img.shields.io/badge/-yannderre-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/yannderre)](https://twitter.com/yannderre) 
-[![Linkedin Badge](https://img.shields.io/badge/-yannderre-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yannderre/)](https://www.linkedin.com/in/yannderre/) [![Github Badge](https://img.shields.io/badge/-yannderre-grey?style=flat&logo=github&logoColor=white&link=https://github.com/derreyann/)](https://www.github.com/derreyann/)
+[![Linkedin Badge](https://img.shields.io/badge/-yannderre-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yannderre/)](https://www.linkedin.com/in/yannderre/) [![Github Badge](https://img.shields.io/badge/-derreyann-grey?style=flat&logo=github&logoColor=white&link=https://github.com/derreyann/)](https://www.github.com/derreyann/)
   
 
 Currently a software engineering student in UTBM.
