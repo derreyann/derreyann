@@ -1,6 +1,5 @@
 ## Hey there, I'm Yann 🤠
   
-[![Twitter Badge](https://img.shields.io/badge/-yannderre-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/yannderre)](https://twitter.com/yannderre) 
 [![Linkedin Badge](https://img.shields.io/badge/-yannderre-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yannderre/)](https://www.linkedin.com/in/yannderre/) [![Github Badge](https://img.shields.io/badge/-derreyann-grey?style=flat&logo=github&logoColor=white&link=https://github.com/derreyann/)](https://www.github.com/derreyann/)
   
 Software engineering student at [UTBM](https://www.utbm.fr) (Sept. 2020-Present). Returning from a Student Exchange semester at [UDC](https://www.udc.es) (A Coruña, Spain) (Feb. 2022 - Jun. 2022)
